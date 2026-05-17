@@ -42,7 +42,6 @@ env/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
 
 # Testing
 .pytest_cache/
@@ -64,3 +63,7 @@ $RECYCLE.BIN/
 
 # UV
 .uv
+
+# Data files
+solar_cycles/19761101_20251130.fmt
+solar_cycles/19761101_20251130.lst
