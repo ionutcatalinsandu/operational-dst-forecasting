@@ -2,6 +2,8 @@
 
 **Authors:** Ionut-Catalin Sandu, Diana Besliu-Ionescu
 
+The main notebook is `variant_xgboost_new_features.ipynb`. It contains a number of sections for each important step: data processing, training, evaluation, etc. Run each cell individually and observe outputs. 
+
 # Setup
 
 ## Installing UV
