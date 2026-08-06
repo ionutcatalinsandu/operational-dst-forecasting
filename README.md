@@ -93,7 +93,7 @@ This repository implements a machine learning pipeline for delta-hour ahead Dst-
 - `helpers/metrics.py` — Storm detection metrics (F1, precision, recall)
 
 ## Citation
-
-Please cite this work if you use it. 
+Please cite this work if it useful in your research.
+Sandu I-C and Beșliu-Ionescu D (2026) Operational Dst forecasting across solar cycle using physics-motivated gradient boosting. Front. Astron. Space Sci. 13:1835176. doi: 10.3389/fspas.2026.1835176 
 
 **Authors:** Ionut-Catalin Sandu, Diana Besliu-Ionescu
